@@ -55,4 +55,4 @@ A cross-platform mobile application built with React Native and Expo to help use
 - Used for fetching job data dynamically.  
 
  ## Reference Video
- `https://www.loom.com/share/da53eeff16d9491487ab06d458844ae0?sid=cb7d9c61-8e3e-450f-ae7e-431ba5aa7ad0`
+ https://www.loom.com/share/da53eeff16d9491487ab06d458844ae0?sid=cb7d9c61-8e3e-450f-ae7e-431ba5aa7ad0
